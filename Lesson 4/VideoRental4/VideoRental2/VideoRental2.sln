@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoRental2", "VideoRental2\VideoRental2.csproj", "{7DCFD6D0-AE77-4EEA-8FCE-0DE59E1677D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "..\TestProject2\TestProject2.csproj", "{793173F1-9FE2-412C-ACAA-56459EB645F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingVideoRental", "..\UsingVideoRental\UsingVideoRental.csproj", "{4D368959-6C68-430F-8156-12A35280ACE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DCFD6D0-AE77-4EEA-8FCE-0DE59E1677D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCFD6D0-AE77-4EEA-8FCE-0DE59E1677D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCFD6D0-AE77-4EEA-8FCE-0DE59E1677D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCFD6D0-AE77-4EEA-8FCE-0DE59E1677D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{793173F1-9FE2-412C-ACAA-56459EB645F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793173F1-9FE2-412C-ACAA-56459EB645F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793173F1-9FE2-412C-ACAA-56459EB645F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793173F1-9FE2-412C-ACAA-56459EB645F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D368959-6C68-430F-8156-12A35280ACE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D368959-6C68-430F-8156-12A35280ACE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D368959-6C68-430F-8156-12A35280ACE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D368959-6C68-430F-8156-12A35280ACE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
